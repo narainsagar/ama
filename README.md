@@ -1,11 +1,12 @@
-# narainsagar/ama
+# Ask Me Anything
 
-A repository to ask [@narainsagar](https://twitter.com/narainsagar) anything.
+A repository to ask me [@narainsagar](https://twitter.com/narainsagar) anything.
 
-I'm [working at Recurship](http://narainsagar.com/whoami) since 1+ year and have worked on many web development projects (mostly single page - web applications) using Node.js, JavaScript, JQuery, Angular2, Bootstrap, HTML(5), CSS(3), PHP, MEAN Stack, etc. During the period I've learned a lot of  new things i.e., about culture, improving your development workflow, software development life cycle, software versioning & control system, and really important shit like automated testing (TDD). If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+**Note:** Anything doesn't mean anything. Only relevant to my topics & stuffs.
 
 ### Ask a question
 
+I get a lot of questions by email. I think, this is the most meaningful way to make answers globally present!
 Asking a question is as easy as
 [creating a new issue](https://github.com/narainsagar/ama/issues/new) on this
 project.
@@ -22,7 +23,17 @@ filter on this repository to browse questions I've answered in the past. I try
 to use this as an email replacement that everyone can see, so feel free to dig
 into some of the older threads.
 
-### Twitter
+### About Me
+
+> My name is **Narain Sagar**, I’m ~23, I live in  Karachi, Pakistan and am pretty much enjoying my life.
+
+![@narainsagar](https://avatars0.githubusercontent.com/narainsagar?&s=128)
+
+I'm [working at Recurship](http://narainsagar.com/whoami) since 2 years and have worked on many web development projects (mostly single page web applications) using Node.js, JavaScript, JQuery, Angular2, TypeScript, Webpack, Bootstrap, HTML(5), CSS(3), PHP, MEAN Stack, etc. During the period I've learned a lot of  new things i.e., about culture, improving your development workflow, software development life cycle, software versioning & control system, and really important shit like automated testing (TDD). If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+
+### Follow Me
+
+[Website](http://narainsagar.com/) | [Twitter](https://twitter.com/narainsagar) | [LinkedIn](https://www.linkedin.com/pk/narainsagar) |  [Facebook](https://facebook.com/NarainSagarPage) | [Github](https://github.com/narainsagar) | [Stack Overflow](www.stackoverflow.com/users/5228251/narainsagar)
 
 If you have something quick and easy, just ping me on Twitter. 140 characters
 makes everyone more efficient. I'm [@narainsagar](https://twitter.com/narainsagar) on
